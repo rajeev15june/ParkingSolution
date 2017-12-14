@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParkingSolution</string>
+    <string name="text">To cancel your booking, long-press on the row.</string>
+    <string name="basement">We have two basements, select one :</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
